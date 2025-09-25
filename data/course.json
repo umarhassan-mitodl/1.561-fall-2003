@@ -28,6 +28,7 @@
     "website": "1-561-motion-based-design-fall-2003"
   },
   "course_title": "Motion Based Design",
+  "hide_download": true,
   "course_description": "This course presents a rational basis for the preliminary design of motion-sensitive structures. Topics covered include: analytical and numerical techniques for establishing the optimal stiffness distribution, the role of damping in controlling motion, tuned mass dampers, base isolation systems, and active structural control. Examples illustrating the application of the motion-based design paradigm to building structures subjected to seismic excitation are discussed.\n",
   "department_numbers": [
     "1"
@@ -38,6 +39,7 @@
     "content": "d8d7e706-fa53-5206-5652-819af96ff14d",
     "website": "1-561-motion-based-design-fall-2003"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Written Assignments"
   ],
