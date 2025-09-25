@@ -2,6 +2,8 @@
 content_type: page
 description: A variety of learning modules and simulators using Java? applets have
   been developed to simulate structural engineering and dynamics concepts.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
