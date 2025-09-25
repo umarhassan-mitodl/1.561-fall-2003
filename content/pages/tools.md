@@ -23,7 +23,7 @@ This simulation demonstrates the behavior of a building subjected to sinusoidal 
 [**Motion Lab for Undergrads**](/ans7870/1/1.561/tools/motionlab/frameshake.html)  
 This simulator demonstrates a building's behavior under dynamic loading. (Courtesy of Emma Shepherdson. Used with permission.)
 
-**{{% resource_link "84abcbb6-b363-48ff-b034-7cf669596a33" "Single Degree of Freedom Nonlinear Analysis Tool" %}}**  
+**[Single Degree of Freedom Nonlinear Analysis Tool](http://cedb.asce.org/cgi/WWWdisplay.cgi?0405520)**  
 This program was developed by the Federal Emergency Management Agency. It's very impressive and should be a useful tool. You can download the program onto your computer.
 
 {{% resource_link 96241aa9-4f4d-d600-a6b3-2b17a0424fb5 "**Introductory Matlab® Tutorial**" %}}   
