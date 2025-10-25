@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-561-motion-based-design-fall-2003/a92ca2aa42f36c1b5c8e9c76dbee3424_connor_intro.pdf
 file_size: 463075
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
